@@ -5,7 +5,7 @@
 
 Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web developer specializing in building React.js WebApp. I enjoy creating things that live on the internet. My interest in web development started back in 2021, I use Javascript, React.js, Next.js, Express, Node, Mongodb, Firebase and much more technology to create high-end interactive experiences and products. Recently working on some great and best projects.
 
-Skills:
+👨‍💻 Skills & Experiance:
 ✅HTML
 ✅CSS
 ✅JS
