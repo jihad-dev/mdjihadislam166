@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/7GBRggW/jihad-profile-removebg.png)
+![Web Developer](https://i.ibb.co/F8c20cz/Screenshot-2023-08-15-063246.png)
 
 ###  Hi I'm Jihadul  Islam👋
 #### Web Developer
